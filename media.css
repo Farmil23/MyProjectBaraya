@@ -1,0 +1,1999 @@
+@media (max-width:1440px) {
+  .header {
+    padding: 1rem 8%;
+  }
+
+  .header a {
+    font-size: 1.6rem;
+  }
+
+  .header .navbar a {
+    font-size: 1.4rem;
+    margin: 0 1.2rem;
+  }
+
+  .header button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+
+  .header button i{
+    font-size: 14px;
+  }
+
+  .home .content h3 {
+    font-size: 5.5rem;
+  }
+
+  .home .content p {
+    font-size: 14px;
+  }
+
+  .home .button-purchase button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 18px;
+  }
+
+  .heading {
+    font-size: 27px;
+  }
+
+  .keuntungan {
+    padding: 20px 90px;
+    gap: 10px;
+    margin: 6vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 30px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 24px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 15px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 90px 90px;
+  }
+  
+  .ip h1{
+    font-size: 27px;
+    padding-bottom: 18px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 14px;
+    
+  }
+  
+
+  
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 20px 35px;
+    border-radius: 20px 0 20px 0 ;
+    gap: 5px;
+    min-width: 400px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius: 20px 0 20px 0 ;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius: 20px 0 20px 0 ;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius: 20px 0 20px 0 ;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 19px;
+  }
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box i{
+    font-size: 24px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 14px;
+  }
+  
+  .alat {
+    margin: 40px 90px;
+    gap: 20px;
+    border: #000 solid 1px;
+    padding: 40px 40px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 14px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 20px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 28px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 4px 8px;
+  }
+  
+  .alat .alat-box hr {
+    height: 100px;
+    border: solid 0.5px black;
+    width: 0.5px;
+  }
+  .alat .alat-box p {
+    font-size: 14px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 30px 10px 10px 10px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 240px;
+    
+    
+  }
+  
+.why {
+
+  padding: 20px 90px;
+
+  margin: 50px 0;
+  
+}
+
+.why-box-1 {
+
+  gap: 10px;
+  padding: 70px 40px;
+  margin: 40px 0;
+ 
+  max-width: 40%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 21px;
+}
+
+.why-box-1 h1 span {
+  padding: 4px 8px;
+}
+.why-box-1 p {
+  font-size: 14px;
+}
+
+.why-box-2 {
+  gap: 20px;
+  margin-right: 15px;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 30px;
+  border: 1px solid rgb(41, 41, 41);
+
+  padding: 60px 30px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 80px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 14px;
+}
+
+
+/* ends */
+
+
+
+
+  .product {
+    padding: 8rem 0px;
+  }
+
+  .product .product-container .product-box {
+    max-width: 500px;
+  }
+
+  .product .product-container .product-box .box-atas {
+    gap: 30px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas p {
+    font-size: 19px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas h3 {
+    font-size: 28px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details h3 {
+    font-size: 32px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details p {
+    font-size: 14px;
+  }
+
+  .product .product-container .product-box .box-atas p {
+    font-size: 20px;
+  }
+
+  .product .product-container .product-box .box-bawah .judul-bawah p {
+    font-size: 15px;
+  }
+  .product .product-container .product-box .box-bawah .judul-detail1 h6 {
+    font-size: 13px;
+  }
+
+  .product .product-container .product-box .box-bawah p {
+    font-size: 15px;
+
+  }
+
+  .product .product-container .product-box .box-bawah ul li {
+    font-size: 15px;
+
+  }
+
+  .contact-head {
+    padding: 30px 90px;
+  }
+
+  .contact {
+    padding: 30px 90px;
+  }
+
+  .contact-head p {
+    font-size: 14px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 20px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 18px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 14px;
+  }
+
+  .footer {
+    padding: 35px 90px 0 90px;
+  }
+
+  .footer .footer-box {
+    gap: 30px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 38px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 38px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 14px;
+    padding: 9px 18px;
+  }
+  .footer .footer-box .left-footer button I{
+    font-size: 20px;
+  }
+
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 14px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 14px;
+  }
+
+  .contact-about .box-chat .chat i {
+    font-size: 20px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 14px;
+  }
+}
+
+
+
+
+
+
+
+@media (max-width:1024px) {
+  .header {
+    padding: 1.2rem 8%;
+  }
+
+  .header a {
+    font-size: 1.5rem;
+  }
+
+  .header .navbar a {
+    font-size: 1.3rem;
+    margin: 0 1.2rem;
+  }
+
+  .header button {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+
+  .header button i{
+    font-size: 20px;
+  }
+
+  .home .content h3 {
+    font-size: 4rem;
+  }
+
+  .home .content p {
+    font-size: 1.5rem;
+  }
+
+  .home .button-purchase button {
+    padding: 7px 14px;
+    font-size: 12px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 23px;
+  }
+
+  .keuntungan {
+    padding: 20px 90px;
+    gap: 23px;
+    margin: 6vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 23px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 18px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 13px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 40px 82px;
+  }
+  
+  .ip h1{
+    font-size: 23px;
+    padding-bottom: 20px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 15px;
+    
+  }
+  
+
+  
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0 ;
+    gap: 5px;
+    min-width: 500px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius:  0 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius:  0px 30px 0px 0px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius:  0px 30px 0 30px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 18px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 13px;
+  }
+
+  
+  .alat {
+    margin: 40px 82px;
+    gap: 20px;
+    border: #000 solid 1px;
+    padding: 35px 35px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 13px;
+    padding: 8px 16px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 17px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 26px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 4px 8px;
+  }
+  
+  .alat .alat-box hr {
+    height: 100px;
+    border: solid 0.5px black;
+    width: 0.5px;
+  }
+  .alat .alat-box p {
+    font-size: 13px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 30px 10px 10px 10px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 210px;
+    
+    
+  }
+  
+.why {
+  padding: 20px 82px;
+  margin: 50px 0;
+}
+
+.why-box-1 {
+  gap: 10px;
+  padding: 70px 40px;
+  margin: 40px 0;
+  max-width: 40%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 21px;
+}
+
+.why-box-1 h1 span {
+  padding: 4px 8px;
+}
+.why-box-1 p {
+  font-size: 13px;
+}
+
+.why-box-2 {
+  gap: 15px;
+  margin-right: 15px;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 25px;
+  border: 1px solid rgb(41, 41, 41);
+  padding: 60px 30px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 70px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 13px;
+}
+  
+  
+
+  .product {
+    padding: 7rem 0;
+  }
+
+  .product .product-container .product-box .box-atas {
+    gap: 25px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas p {
+    font-size: 14px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas h3 {
+    font-size: 28px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details h3 {
+    font-size: 32px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details p {
+    font-size: 13px;
+  }
+
+  .product .product-container .product-box .box-atas p {
+    font-size: 18px;
+  }
+
+  .product .product-container .product-box .box-bawah p {
+    font-size: 13px;
+
+  }
+
+  .product .product-container .product-box .box-bawah .judul-bawah p {
+    font-size: 13px;
+  }
+
+  .product .product-container .product-box .box-bawah ul li {
+    font-size: 13px;
+
+  }
+
+  .contact-head {
+    padding: 30px 82px;
+  }
+
+  .contact {
+    padding: 30px 40px;
+  }
+
+  .contact-head p {
+    font-size: 13px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 20px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 15px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 13px;
+  }
+
+  .footer {
+    padding: 35px 82px 0 82px;
+  }
+
+  .footer .footer-box {
+    gap: 35px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 30px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 30px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 13px;
+    padding: 6px 14px;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 14px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 13px;
+  }
+
+  .contact-about .box-chat .chat i {
+    font-size: 23px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 13px;
+  }
+}
+
+
+
+
+
+
+
+
+@media (max-width:835px) {
+  .alat .alat-image .image-alat img {
+    max-width: 170px;
+    
+    
+  }
+}
+
+
+
+@media (max-width:781px) {
+  .header {
+    padding: 1.2rem 7.5%;
+  }
+
+  .header a {
+    font-size: 1.5rem;
+  }
+
+  .header .account-icon img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .header .navbar a {
+    font-size: 1.3rem;
+    margin: 0 1.2rem;
+  }
+
+  .header button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .header button i{
+    font-size: 18px;
+  }
+
+  .home .content h3 {
+    font-size: 3.8rem;
+  }
+
+  .home .content p {
+    font-size: 1.2rem;
+  }
+
+  .home .button-purchase button {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 20px;
+  }
+
+  .keuntungan {
+    padding: 20px 70px;
+    gap: 23px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 20px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 16px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 11px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 40px 70px;
+  }
+  
+  .ip h1{
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 15px;
+    
+  }
+  
+
+  
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0 ;
+    gap: 5px;
+    min-width: 500px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius:  0 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius:  0px 30px 0px 0px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius:  0px 30px 0 30px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 16px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 11px;
+  }
+
+
+
+  
+  
+  .alat {
+    margin: 40px 57.5px;
+    gap: 17px;
+    border: #000 solid 1px;
+    padding: 30px 30px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 12px;
+    padding: 7px 14px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 5px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 22px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 4px 8px;
+  }
+  
+  .alat .alat-box hr {
+    height: 100px;
+    border: solid 0.5px black;
+    width: 0.5px;
+  }
+  .alat .alat-box p {
+    font-size: 13px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 20px 10px 10px 10px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 180px;
+    
+    
+  }
+  
+.why {
+  padding: 20px 57.5px;
+  margin: 40px 0;
+}
+
+.why-box-1 {
+  gap: 10px;
+  padding: 50px 20px;
+  margin: 40px 0;
+  max-width: 40%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 18px;
+}
+
+.why-box-1 h1 span {
+  padding: 4px 8px;
+}
+.why-box-1 p {
+  font-size: 12px;
+}
+
+.why-box-2 {
+  gap: 12px;
+  margin-right: 15px;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 22px;
+  border: 1px solid rgb(41, 41, 41);
+  padding: 50px 25px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 60px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 12px;
+}
+  
+
+  .product {
+    padding: 8rem 0px;
+    margin: 0 57.5px;
+  }
+
+  .product h1 {
+    font-size: 19px;
+  }
+
+
+
+  .product .product-container .product-box .box-atas {
+    gap: 17px;
+  }
+
+  .product .product-container .product-box .box-bawah{
+    gap: 7px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas p {
+    font-size: 11px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas h3 {
+    font-size: 25px;
+  }
+
+  .product .product-container .product-box .box-atas .harga {
+    padding: 8px 16px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details h3 {
+    font-size: 31px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details p {
+    font-size: 10px;
+  }
+
+  .product .product-container .product-box .box-atas p {
+    font-size: 14px;
+  }
+
+
+  .product .product-container .product-box .box-bawah .judul-bawah p{
+    font-size: 12px;
+  }
+
+  .product .product-container .product-box .box-bawah p {
+    font-size: 11px;
+
+  }
+
+  .product .product-container .product-box .box-bawah ul li {
+    font-size: 12px;
+
+  }
+
+  .product .product-container .product-box .box-bawah .judul-detail1 h6{
+    font-size: 9px;
+    padding: 5px 10px;
+  }
+
+  .contact-head {
+    padding: 20px 52.5px;
+  }
+
+  .contact {
+    padding: 20px 40px;
+  }
+
+  .contact-head p {
+    font-size: 13px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 19px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 14px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 12px;
+  }
+
+  .footer {
+    padding: 35px 57.5px 0 57.5px;
+  }
+
+  .footer .footer-box {
+    gap: 40px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 26px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 26px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 12px;
+    padding: 7px 14px;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 12px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 12px;
+  }
+
+ 
+
+  .contact-about .box-chat .chat i {
+    font-size: 18px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 11px;
+  }
+}
+
+@media (max-width:677px) {
+  .alat .alat-image .image-alat img {
+    max-width: 140px;
+    
+    
+  }
+}
+
+
+
+@media (max-width:605px) {
+  .header {
+    padding: 1.2rem 7.5%;
+  }
+
+  .header a {
+    font-size: 1.5rem;
+  }
+
+  .header .navbar{
+    display: none;
+  }
+
+
+
+  .header button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .header button i{
+    font-size: 18px;
+  }
+
+  .home .content {
+    padding: 0.7rem 2.3rem;   
+  }
+
+  .home .content h3 {
+    font-size: 2.8rem;
+  }
+
+  .home .content p {
+    font-size: 1.12rem;
+  }
+
+  .home .button-purchase button {
+    padding: 5px 10px;
+    font-size: 10px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 18px;
+  }
+
+  .heading {
+    font-size: 18px;
+  }
+
+  .keuntungan {
+    padding: 10px 50px;
+    gap: 18px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan h1{
+    text-align: center;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 20px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 16px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 11px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 10px 32px;
+  }
+  
+  .ip h1{
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 15px;
+    
+  }
+  
+
+  
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 20px;
+    border-radius: 30px 0 30px 0 ;
+    gap: 5px;
+    min-width: 325px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius:  0 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius:  0px 30px 0px 0px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius:  0px 30px 0 30px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 16px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 11px;
+  }
+
+  .alat {
+    margin: 40px 32px;
+    gap: 13px;
+    border: #000 solid 1px;
+    padding: 20px 20px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 10px;
+    padding: 6px 12px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 5px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 15px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 2.5px 5px;
+  }
+  
+  .alat .alat-box hr {
+    height: 80px;
+    border: solid 0.5px black;
+    width: 0.5px;
+  }
+  .alat .alat-box p {
+    font-size: 9px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 20px 0px 10px 0px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 100px;
+    
+    
+  }
+  
+.why {
+  padding: 20px 32px;
+  margin: 30px 0;
+}
+
+.why-box-1 {
+  gap: 10px;
+  padding: 20px 10px;
+  margin: 40px 0;
+  max-width: 40%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 14px;
+}
+
+.why-box-1 h1 span {
+  padding: 2px 4px;
+}
+.why-box-1 p {
+  font-size: 9px;
+}
+
+.why-box-2 {
+  gap:10px;
+  margin-right: 8px;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 15px;
+  border: 1px solid rgb(41, 41, 41);
+  padding: 20px 15px;
+  max-width: 300px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 30px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 9px;
+}
+
+  .product {
+    padding: 0rem 0px;
+    margin: 0 32px;
+  }
+
+  .product h1{
+    text-align: center;
+  }
+
+  .product .product-container .product-box .box-atas {
+    gap: 22px;
+  }
+
+  .product .product-container .product-box .box-bawah{
+    gap: 7px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas p {
+    font-size: 13px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas h3 {
+    font-size: 27px;
+  }
+
+  .product .product-container .product-box .box-atas .harga {
+    padding: 10px 30px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details h3 {
+    font-size: 34px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details p {
+    font-size: 13px;
+  }
+
+  .product .product-container .product-box .box-atas p {
+    font-size: 14px;
+  }
+
+
+  .product .product-container .product-box .box-bawah .judul-bawah p{
+    font-size: 12px;
+  }
+
+  .product .product-container .product-box .box-bawah p {
+    font-size: 11px;
+
+  }
+
+  .product .product-container .product-box .box-bawah ul li {
+    font-size: 12px;
+
+  }
+
+  .product .product-container .product-box .box-bawah .judul-detail1 h6{
+    font-size: 9px;
+    padding: 5px 10px;
+  }
+
+  .contact-head {
+    padding: 20px 32px;
+  }
+
+  .contact {
+    padding: 20px 0px;
+    gap: 10px;
+  }
+  .heading {
+    margin: 10px;
+  }
+
+  .contact h1 {
+    font-size: 18px;
+    margin: 0;
+  }
+
+  .contact-head p {
+    font-size: 9px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke {
+    gap: 6px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 20px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 13px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 9px;
+  }
+
+  .footer {
+    padding: 35px 32px 0 32px;
+  }
+
+  .footer .footer-box {
+    gap: 0px;
+    justify-content: center;
+  }
+  .footer .footer-box .left-footer{
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 10px;
+    padding: 6px 12px;
+  }
+
+  .footer .footer-box .right-footer nav {
+    display: none;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 14px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 10px;
+  }
+
+  .contact-about .box-chat {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: none;
+    
+  }
+  .contact-about{
+    display: none;
+  }
+
+ 
+
+  .contact-about .box-chat .chat i {
+    font-size: 30px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 9px;
+  }
+}
+
+@media (max-width:375px) {
+
+  .header button i{
+    font-size: 16px;
+  }
+  .home .content h3 {
+    font-size: 2.5rem;
+  }
+
+  .home .content p {
+    font-size: 1rem;
+  }
+ 
+  .ip {
+    gap: 10px;
+    padding: 10px 28px;
+  }
+  
+  .ip h1{
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 15px;
+    
+  }
+  
+
+  
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 20px;
+    border-radius: 30px 0 30px 0 ;
+    gap: 5px;
+    min-width: 275px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius:  0 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius:  0px 30px 0px 0px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius:  0px 30px 0 30px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 14px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 10px;
+  }
+
+  .alat {
+    margin: 30px 28px;
+    gap: 13px;
+    border: #000 solid 1px;
+    padding: 20px 20px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 8px;
+    padding: 5px 10px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 5px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 13px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 1.5px 3px;
+  }
+  
+  .alat .alat-box hr {
+    height: 100px;
+    border: solid 0.5px black;
+    width: 0px;
+  }
+  .alat .alat-box p {
+    font-size: 8.5px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 15px 0px 5px 0px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 80px;
+    
+    
+  }
+  
+.why {
+  padding: 20px 28px;
+  margin: 20px 0;
+}
+
+.why-box-1 {
+  gap: 7px;
+  padding: 28px 9px;
+  margin: 30px 0;
+  max-width: 40%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 12px;
+}
+
+.why-box-1 h1 span {
+  padding: 1.5px 3px;
+}
+.why-box-1 p {
+  font-size: 8.5px;
+}
+
+.why-box-2 {
+  gap:7px;
+  margin-right: 6px;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 14px;
+  border: 1px solid rgb(41, 41, 41);
+  padding: 10px 15px;
+  max-width: 400px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 30px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 9px;
+}
+
+.product h1{
+  font-size: 14px;
+}
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+  .footer .footer-box .left-footer button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+  .footer .footer-bottom h3 {
+    font-size: 9px;
+  }
+
+}
+
+@media (max-width:320px) {
+  .home {
+    padding: 0 24px;
+  }
+  .header button i{
+    font-size: 15px;
+  }
+
+  .home .content {
+    padding: 0;
+  }
+  .home .content h3 {
+    font-size: 2.3rem;
+    padding: 0;
+  }
+
+  .home .content p {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  .home .button-purchase button{
+    font-size: 9px;
+  }
+
+  .keuntungan {
+    padding: 10px 24px;
+    gap: 17px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan h1{
+    text-align: center;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 14px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 14px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 10px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 10px 24px;
+  }
+  
+  .ip h1{
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+  }
+  
+  
+  .ip .ip-container{
+    gap: 5px;
+  }
+  
+  .ip .ip-container .ip-box{
+    gap: 12px;
+    
+  }
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box{
+    padding: 15px;
+    border-radius: 30px 0 30px 0 ;
+    gap: 5px;
+    min-width: 260px;
+    border-radius: 5px;
+    
+    
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius:  5px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius:  5px ;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius:  5px ;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box i {
+    font-size: 18px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3{
+    font-size: 11px;
+  }
+  
+  .ip .ip-container .ip-box .benefit .benefit-box  p{
+    font-size: 9px;
+  }
+
+  .alat {
+    margin: 30px 24px;
+    gap: 13px;
+    border: #000 solid 1px;
+    padding: 15px 15px;
+  
+  
+  }
+  
+  .alat .button-alat button{
+    font-size: 8px;
+    padding: 5px 10px;
+  }
+
+  .alat .alat-box {
+    flex: 1;
+    gap: 5px;
+  }
+  
+  
+  
+  .alat .alat-box h1 {
+    font-size: 12px;
+    max-width: 50%;
+    
+  }
+  
+  .alat .alat-box h1 span{
+    padding: 1px 2px;
+  }
+  
+  .alat .alat-box hr {
+    height: 100px;
+    border: solid 0.5px black;
+    width: 0px;
+  }
+  .alat .alat-box p {
+    font-size: 8px;
+    max-width: 50%;
+  }
+  
+  .alat .alat-image{
+    padding: 15px 0px 5px 0px;
+  }
+  
+  .alat .alat-image .image-alat img {
+    max-width: 70px;
+    
+    
+  }
+  
+.why {
+  padding: 20px 24px;
+  margin: 20px 0;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.why-box-1 {
+  gap: 7px;
+  padding: 25px 9px;
+  margin: 7px 0;
+  max-width: 100%;
+  border: 1px solid rgb(41, 41, 41);
+  
+}
+.why-box-1 h1 {
+  font-size: 15px;
+}
+
+.why-box-1 h1 span {
+  padding: 1px 2px;
+}
+.why-box-1 p {
+  font-size: 8.3px;
+}
+
+.why-box-2 {
+  gap:7px;
+  margin-right: 0px;
+  width: 100%;
+
+}
+
+.why-box-2 .icon-1 {
+  gap: 14px;
+  border: 1px solid rgb(41, 41, 41);
+  padding: 10px 15px;
+  max-width: 400px;
+
+}
+
+.why-box-2 .icon-1 i {
+  font-size: 40px;
+  
+}
+.why-box-2 .icon-1 p {
+  font-size: 9px;
+}
+
+  .product {
+    padding: 0rem 0px;
+    margin: 0 24px;
+  }
+
+  .product h1{
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .product h1 span {
+    padding: 3px 6px;
+  }
+
+  .product .product-container {
+    gap: 20px 10px;
+  }
+
+  .product .product-container .product-box .box-atas {
+    gap: 16px;
+  }
+
+  .product .product-container .product-box .box-bawah{
+    gap: 7px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas p {
+    font-size: 11px;
+  }
+
+  .product .product-container .product-box .box-atas .details-atas h3 {
+    font-size: 24px;
+  }
+
+  .product .product-container .product-box .box-atas .harga {
+    padding: 9px 18px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details h3 {
+    font-size: 28px;
+  }
+
+  .product .product-container .product-box .box-atas .harga .harga-details p {
+    font-size: 9px;
+  }
+
+  .product .product-container .product-box .box-atas p {
+    font-size: 13px;
+  }
+
+
+  .product .product-container .product-box .box-bawah .judul-bawah p{
+    font-size: 12px;
+  }
+
+  .product .product-container .product-box .box-bawah p {
+    font-size: 11px;
+
+  }
+
+  .product .product-container .product-box .box-bawah ul li {
+    font-size: 12px;
+
+  }
+
+  .product .product-container .product-box .box-bawah .judul-detail1 h6{
+    font-size: 8px;
+    padding: 5px 10px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 22px;
+    text-align: center;
+
+
+  }
+
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 22px;
+    text-align: center;
+
+  }
+  .footer .footer-box .left-footer button {
+    font-size: 9px;
+    padding: 5px 10px;
+  }
+  .footer .footer-bottom h3 {
+    font-size: 8px;
+  }
+}
